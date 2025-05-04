@@ -270,7 +270,7 @@ body {
   margin-left: 140px;
   margin-right: 140px;
   font-family: var(--primary-font);
-  background-image: url(/code/img/fondo2x.jpg);
+  background-image: url(/img/fondo2x.jpg);
   background-position: top 67px left;
   background-repeat: no-repeat;
   background-size: 630px;
@@ -384,7 +384,7 @@ nav ul {
 }
 
 .detalles ul li {
-  background-image: url(/code/img/check.svg);
+  background-image: url(/img/check.svg);
   background-repeat: no-repeat;
   background-size: 20px;
   background-position: left center;

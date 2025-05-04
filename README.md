@@ -2,6 +2,10 @@
 
 Another project of CSS stylesheet repository for a company offering co-working spaces. 
 
+## Preview
+
+<img src='/code/img/preview_project.png'>
+
 ## Features
 
 - **Modern Layouts**: Use of Flex, grid, for flexible and efficient layout management.
@@ -49,6 +53,10 @@ All contributions are always welcome to improve stylesheet. Follow the steps:
 # coworking-header-css ✔️ 
 
 Otro proyecto de hoja de estilo CSS para una empresa que ofrece espacios de co-working. 
+
+## Vista previa
+
+<img src='/code/img/preview_project.png'>
 
 ## Características
 
